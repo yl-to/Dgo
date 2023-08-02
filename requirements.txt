@@ -1,0 +1,16 @@
+langchain
+# langchain dependencies
+chromadb
+openai
+tiktoken
+# pdf related
+pypdf
+unstructured
+pdf2image
+
+# web
+flask
+flask_mail
+
+# utils
+phonenumbers

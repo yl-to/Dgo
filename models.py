@@ -1,0 +1,2 @@
+OPENAI_BASE_MODEL="gpt-3.5-turbo"
+OPENAI_GPT4_MODEL="gpt-4"
